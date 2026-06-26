@@ -141,3 +141,6 @@ The application automatically logs weather data to Excel files:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+Developed by :
+Preet Rajpara
